@@ -30,7 +30,11 @@ find the pairwise correlation of all columns in the dataframe(.corr()).
 ## STEP 8:
 Save the final data set into the file.
 
-## CODE
+## CODE:
+```
+DEVELOPED BY:LOGESHWARI.P
+REG NO:212221230055
+```
 ```
 import pandas as pd 
 import seaborn as sns
@@ -75,16 +79,15 @@ sns.heatmap(df.corr(),annot=True)
 ![6](https://user-images.githubusercontent.com/94211349/162873430-26a670f3-128d-4e80-8373-cd83580440e7.png)
 ![7](https://user-images.githubusercontent.com/94211349/162873443-4bf778cb-e5c7-4c32-90c8-be775c086b2f.png)
 ![8](https://user-images.githubusercontent.com/94211349/162873480-28b2e3c0-a0a6-4799-bd5e-613b215eb83d.png)
+![9](https://user-images.githubusercontent.com/94211349/165212886-ff1d0ae7-8d7d-488b-9885-1f1e5f85013c.png)
+![10](https://user-images.githubusercontent.com/94211349/165212917-e30f891f-4a08-45e0-931a-03b09ff51767.png)
+![11](https://user-images.githubusercontent.com/94211349/165212943-5c074c62-a35a-44a5-a37c-b673ea301220.png)
+![12](https://user-images.githubusercontent.com/94211349/165212965-60ff0606-e480-4b7e-9698-617c02230461.png)
+![13](https://user-images.githubusercontent.com/94211349/165212979-e793c5f6-4837-4bb0-b786-0ed19fec4c81.png)
+![14](https://user-images.githubusercontent.com/94211349/165213008-a6badf76-73de-4442-b22b-9c1c00c7a130.png)
+![15](https://user-images.githubusercontent.com/94211349/165213029-5b2e0917-c5e2-4018-be5b-626000f0210b.png)
+![16](https://user-images.githubusercontent.com/94211349/165213044-ba0d936e-14d7-4564-9fc4-c05c2c53c4e1.png)
+![17](https://user-images.githubusercontent.com/94211349/165213056-bb034a11-b963-466d-80c7-5cf921e3bc6a.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
+### RESULT:
+The data has been cleaned, outlier has been removed and the EDA on the given data has been performed.
